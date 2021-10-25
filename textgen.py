@@ -1,7 +1,5 @@
-from keras import optimizer_v2
-from nltk.translate.ibm2 import Model2Counts
+import sys
 import numpy
-import nltk 
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
